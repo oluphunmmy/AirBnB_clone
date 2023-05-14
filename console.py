@@ -74,11 +74,11 @@ class HBNBCommand(cmd.Cmd):
         return False
 
     def do_quit(self, arg):
-        """Quit command to exit the program."""
+        """This is the module to quit command to exit the program."""
         return True
 
     def do_EOF(self, arg):
-        """EOF signal to exit the program."""
+        """Module for EOF signal to exit the program."""
         return True
 
     def do_create(self, arg):
