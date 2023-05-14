@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
+
 """This Console module for entry into the command interpreter"""
 import cmd
 import sys
