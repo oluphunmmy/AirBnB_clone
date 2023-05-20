@@ -1,1 +1,1 @@
-Web_static HBNB project
+#AirBnB clone - Web static
